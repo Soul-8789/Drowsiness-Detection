@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
+
 
 # Drowsyness-Detection
 
@@ -9,7 +9,7 @@
 <!-- it's disco time -->
 <br />
 <div align="center">
-  <a href="https://github.com/TheCleverIdiott/drowsiness-detection">
+  <a href="https://github.com/Soul-8789/Drowsiness-Detection">
     <img src="preview.jpg" alt="Logo" height="300" width="600">
   </a>
  </div>
@@ -34,19 +34,5 @@ ________________________________________________________________________________
 * Run the `SleepDetection.py` file after completing the previous steps.
     
 <br>
-   
-## Authors
 
-[![Contributors][contributors-image]][contributors-link]
-
-[contributors-image]: https://contrib.rocks/image?repo=thecleveridiott/drowsiness-detection
-[contributors-link]: https://github.com/thecleveridiott/drowsiness-detection/graphs/contributors
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jagreetdg/Dseized-Bot.svg?style=for-the-badge
-[contributors-url]: https://github.com/TheCleverIdiott/AI-Score-Predictor/graphs/contributors
-[license-shield]: https://img.shields.io/github/license/jagreetdg/Dseized-Bot.svg?style=for-the-badge
-[license-url]: https://github.com/TheCleverIdiott/AI-Score-Predictor/blob/main/LICENSE
 
